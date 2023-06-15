@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{C85AFA15-2BF0-4A2A-AB81-2E42C1CB1A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{C85AFA15-2BF0-4A2A-AB81-2E42C1CB1A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.RealWorld", "Singleton.RealWorld\Singleton.RealWorld.csproj", "{661C1D50-C20F-426C-A632-8A5B2FAA88D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.RealWorld", "Singleton.RealWorld\Singleton.RealWorld.csproj", "{661C1D50-C20F-426C-A632-8A5B2FAA88D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{2725A7DC-A238-4F76-A58E-A71059BB5A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory.RealWorld", "Factory.RealWorld\Factory.RealWorld.csproj", "{3A4B2397-99C5-452A-A180-30D129CE4048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singelton-Factory-Observer", "Singelton-Factory-Observer", "{62F8A86A-49E3-43DB-A93E-48C575C4CCEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +27,23 @@ Global
 		{661C1D50-C20F-426C-A632-8A5B2FAA88D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661C1D50-C20F-426C-A632-8A5B2FAA88D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661C1D50-C20F-426C-A632-8A5B2FAA88D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2725A7DC-A238-4F76-A58E-A71059BB5A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2725A7DC-A238-4F76-A58E-A71059BB5A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2725A7DC-A238-4F76-A58E-A71059BB5A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2725A7DC-A238-4F76-A58E-A71059BB5A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4B2397-99C5-452A-A180-30D129CE4048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4B2397-99C5-452A-A180-30D129CE4048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4B2397-99C5-452A-A180-30D129CE4048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4B2397-99C5-452A-A180-30D129CE4048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C85AFA15-2BF0-4A2A-AB81-2E42C1CB1A8B} = {62F8A86A-49E3-43DB-A93E-48C575C4CCEC}
+		{661C1D50-C20F-426C-A632-8A5B2FAA88D4} = {62F8A86A-49E3-43DB-A93E-48C575C4CCEC}
+		{2725A7DC-A238-4F76-A58E-A71059BB5A3F} = {62F8A86A-49E3-43DB-A93E-48C575C4CCEC}
+		{3A4B2397-99C5-452A-A180-30D129CE4048} = {62F8A86A-49E3-43DB-A93E-48C575C4CCEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF523D0A-351E-4991-9D47-2BB460298EC8}
