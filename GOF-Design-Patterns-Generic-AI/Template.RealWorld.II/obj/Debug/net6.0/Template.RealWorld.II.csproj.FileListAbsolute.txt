@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\bin\Debug\net6.0\Template.RealWorld.II.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\bin\Debug\net6.0\Template.RealWorld.II.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\bin\Debug\net6.0\Template.RealWorld.II.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\bin\Debug\net6.0\Template.RealWorld.II.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\bin\Debug\net6.0\Template.RealWorld.II.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\refint\Template.RealWorld.II.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\Template.RealWorld.II.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Template.RealWorld.II\obj\Debug\net6.0\ref\Template.RealWorld.II.dll

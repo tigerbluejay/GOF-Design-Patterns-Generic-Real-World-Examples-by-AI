@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Observer/1.0.0": {
+        "dependencies": {
+          "Observer.RealWorld": "1.0.0"
+        },
         "runtime": {
           "Observer.dll": {}
+        }
+      },
+      "Observer.RealWorld/1.0.0": {
+        "runtime": {
+          "Observer.RealWorld.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observer.RealWorld/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

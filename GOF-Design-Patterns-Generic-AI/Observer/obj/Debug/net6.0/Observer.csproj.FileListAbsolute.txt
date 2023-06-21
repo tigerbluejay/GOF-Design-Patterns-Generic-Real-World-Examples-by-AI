@@ -13,3 +13,9 @@ C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Des
 C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\obj\Debug\net6.0\Observer.pdb
 C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
 C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\obj\Debug\net6.0\ref\Observer.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\bin\Debug\net6.0\Observer.RealWorld.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\bin\Debug\net6.0\Observer.RealWorld.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\bin\Debug\net6.0\Observer.RealWorld.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\bin\Debug\net6.0\Observer.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\bin\Debug\net6.0\Observer.RealWorld.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Observer\obj\Debug\net6.0\Observer.csproj.CopyComplete
