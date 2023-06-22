@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Template.RealWorld.II\\Template.NET.csproj",
-      "projectName": "Template.NET",
-      "projectPath": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Template.RealWorld.II\\Template.NET.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Adapter.NET\\Adapter.NET.csproj",
+      "projectName": "Adapter.NET",
+      "projectPath": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Adapter.NET\\Adapter.NET.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Template.RealWorld.II\\obj\\",
+      "outputPath": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Adapter.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
