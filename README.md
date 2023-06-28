@@ -17,6 +17,7 @@ I asked ChatGPT to rank in order of complexity for human understanding and it pr
 - Proxy
 - Iterator
 - Composite
+- Facade
 - State
 - Bridge
 - Abstract Factory
