@@ -49,11 +49,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command.NET", "Command.NET\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7-Decorator-8-Command-9-Proxy", "7-Decorator-8-Command-9-Proxy", "{663579FB-1BFD-4962-BCEF-195B7B923D1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{40B0A45A-3131-4FE3-AB61-DA44E6F70CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{40B0A45A-3131-4FE3-AB61-DA44E6F70CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.RealWorld", "Proxy.RealWorld\Proxy.RealWorld.csproj", "{697F187A-22BD-4AC6-8E36-6CC449AB6902}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.RealWorld", "Proxy.RealWorld\Proxy.RealWorld.csproj", "{697F187A-22BD-4AC6-8E36-6CC449AB6902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.NET", "Proxy.NET\Proxy.NET.csproj", "{EEC94FD7-C5C5-4A39-97E3-E6FBC228F6E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.NET", "Proxy.NET\Proxy.NET.csproj", "{EEC94FD7-C5C5-4A39-97E3-E6FBC228F6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{6FF1B5DD-D6B1-4B19-BDD4-4499D3CD3234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.RealWorld", "Iterator.RealWorld\Iterator.RealWorld.csproj", "{02B873BA-113A-4FB3-91F0-BA39C5C0556C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.NET", "Iterator.NET\Iterator.NET.csproj", "{6E7792AB-983F-43F8-970C-6CA50075DF2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +159,18 @@ Global
 		{EEC94FD7-C5C5-4A39-97E3-E6FBC228F6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEC94FD7-C5C5-4A39-97E3-E6FBC228F6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEC94FD7-C5C5-4A39-97E3-E6FBC228F6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF1B5DD-D6B1-4B19-BDD4-4499D3CD3234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF1B5DD-D6B1-4B19-BDD4-4499D3CD3234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF1B5DD-D6B1-4B19-BDD4-4499D3CD3234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF1B5DD-D6B1-4B19-BDD4-4499D3CD3234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B873BA-113A-4FB3-91F0-BA39C5C0556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B873BA-113A-4FB3-91F0-BA39C5C0556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B873BA-113A-4FB3-91F0-BA39C5C0556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B873BA-113A-4FB3-91F0-BA39C5C0556C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7792AB-983F-43F8-970C-6CA50075DF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7792AB-983F-43F8-970C-6CA50075DF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7792AB-983F-43F8-970C-6CA50075DF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7792AB-983F-43F8-970C-6CA50075DF2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

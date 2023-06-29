@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Factory.RealWorld/1.0.0": {
+        "runtime": {
+          "Factory.RealWorld.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factory.RealWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
