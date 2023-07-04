@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Iterator.NET/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Iterator.NET.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Iterator.NET.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Iterator.NET/1.0.0": {
+      "type": "project",
+      "path": "../Iterator.NET/Iterator.NET.csproj",
+      "msbuildProject": "../Iterator.NET/Iterator.NET.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Iterator.NET >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\josem\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Iterator.NET\\Iterator.NET.csproj": {
+              "projectPath": "C:\\Users\\josem\\source\\Large Projects\\AI Design Patterns Generic Examples\\GOF-Design-Patterns-Generic-AI\\Iterator.NET\\Iterator.NET.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
