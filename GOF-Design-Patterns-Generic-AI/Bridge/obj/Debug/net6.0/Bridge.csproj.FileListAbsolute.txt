@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\bin\Debug\net6.0\Bridge.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\bin\Debug\net6.0\Bridge.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\bin\Debug\net6.0\Bridge.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\bin\Debug\net6.0\Bridge.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Bridge\obj\Debug\net6.0\ref\Bridge.dll
