@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\bin\Debug\net6.0\AbstractFactory.NET.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\bin\Debug\net6.0\AbstractFactory.NET.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\bin\Debug\net6.0\AbstractFactory.NET.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\bin\Debug\net6.0\AbstractFactory.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\bin\Debug\net6.0\AbstractFactory.NET.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\refint\AbstractFactory.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\AbstractFactory.NET.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\AbstractFactory.NET\obj\Debug\net6.0\ref\AbstractFactory.NET.dll
