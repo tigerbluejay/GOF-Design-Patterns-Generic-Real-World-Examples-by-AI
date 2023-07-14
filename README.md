@@ -242,3 +242,110 @@ The Composite design pattern is used when we want to treat individual objects an
 
 The Composite pattern provides a way to treat individual objects and compositions of objects uniformly, simplifying the manipulation of hierarchical structures. It promotes code reusability, flexibility, and extensibility by providing a common interface for accessing and manipulating elements. It is especially useful in scenarios involving hierarchical data structures, recursive algorithms, or the need to apply operations uniformly to groups of objects.
 
+## FACADE
+
+The Facade design pattern is used when we want to provide a simplified interface to a complex subsystem or set of classes. It acts as a higher-level interface that hides the complexities and interactions of the underlying components, making it easier to use and understand. Here are some common scenarios where the Facade pattern is applied:
+
+Simplifying complex APIs: The Facade pattern is often used to simplify complex and intricate APIs. By providing a higher-level interface that encapsulates the underlying complexity, client code can interact with the subsystem using a simplified set of methods and operations.
+
+Subsystem integration: When integrating multiple subsystems or external libraries, the Facade pattern can be employed to provide a unified interface. The facade acts as a single entry point for the client code to interact with the subsystems, abstracting away the details of the individual components.
+
+Legacy system adaptation: The Facade pattern can be used when working with legacy systems or codebases. It allows for the creation of a facade that provides a modern, simplified interface to the legacy system, hiding its intricacies and making it easier to integrate with newer components.
+
+Providing a domain-specific interface: The Facade pattern can be used to create a domain-specific interface that is tailored to the needs of a particular client or application. It hides the irrelevant complexities of the underlying system and presents a more focused and intuitive interface.
+
+Performance optimization: In performance-critical applications, the Facade pattern can be employed to optimize resource usage and minimize communication overhead. The facade can aggregate and coordinate requests to the subsystem, reducing the number of individual interactions and improving performance.
+
+Promoting loose coupling: The Facade pattern promotes loose coupling between the client code and the subsystem. By providing a simplified interface, it decouples the client from the internal implementation details of the subsystem, allowing for easier maintenance, updates, and refactoring.
+
+The Facade pattern provides a simplified interface to a complex subsystem, making it easier to use, understand, and integrate. It promotes code maintainability, encapsulation, and abstraction of complexities. It is particularly useful in scenarios where there are complex subsystems, intricate APIs, or the need to integrate multiple components or libraries.
+
+## STATE
+
+The State design pattern is used when an object's behavior needs to change based on its internal state. It allows an object to alter its behavior dynamically by changing its internal state, without the need for conditional statements. Here are some common scenarios where the State pattern is applied:
+
+Stateful objects: The State pattern is commonly used when objects have multiple states and their behavior varies based on those states. It provides a clean and flexible way to represent and manage state transitions, ensuring that the object behaves appropriately in each state.
+
+Workflow or process management: In workflow or process management systems, the State pattern can be employed to represent different stages or steps in a process. Each state represents a specific phase, and the object's behavior changes accordingly. This facilitates the modeling and management of complex workflows.
+
+Game development: The State pattern is useful in game development when different game states need to be handled. Examples include states like "menu," "playing," "paused," or "game over." Each state has its own set of behaviors and transitions, and the State pattern allows for the management and switching of these states.
+
+User interface behavior: The State pattern can be used to manage the behavior of user interfaces, especially when the interface needs to respond differently based on user interactions or system conditions. Each state represents a specific interaction mode, and the object's behavior adapts accordingly.
+
+Communication protocols: In networking or communication protocols, the State pattern is commonly used to represent different protocol states. Each state encapsulates the behavior and rules associated with a specific protocol state, allowing for easy management and handling of protocol transitions.
+
+Concurrent programming: The State pattern can be applied in concurrent programming scenarios, where objects need to handle different concurrency states. Each state represents a particular concurrency mode or synchronization behavior, and the State pattern provides a structured way to manage those states.
+
+The State pattern provides a way to encapsulate state-dependent behavior and manage state transitions in a flexible and maintainable manner. It promotes loose coupling, separation of concerns, and clean code organization. It is particularly useful in scenarios involving objects with complex behavior that changes based on internal states or where multiple states and transitions need to be managed effectively.
+
+## BRIDGE
+
+The Bridge design pattern is used when we want to decouple an abstraction from its implementation, allowing them to vary independently. It enables flexibility in designing and evolving systems by separating the interface from its implementation details. Here are some common scenarios where the Bridge pattern is applied:
+
+Platform independence: The Bridge pattern is often used when we want to develop software that is independent of a specific platform or technology. By separating the abstraction from its implementation, the system can adapt and support different platforms or technologies without modifying the core logic.
+
+Multiple implementations: When there are multiple implementations of a feature or behavior, the Bridge pattern can be employed to manage and switch between them. It provides a clean way to switch or substitute the underlying implementation without affecting the abstraction or client code.
+
+UI frameworks: The Bridge pattern is useful in graphical user interface (GUI) frameworks. It allows the separation of GUI components from their rendering or appearance. The abstraction represents the high-level GUI components, while the implementation represents the specific rendering mechanisms for different platforms or styles.
+
+Database access: The Bridge pattern can be used in database access layers to decouple the application from specific database systems. The abstraction defines the high-level database operations, while the implementation handles the low-level interactions with different database technologies.
+
+Device drivers: In systems that interact with various hardware devices, the Bridge pattern can be applied to separate the device-specific logic from the higher-level application logic. The abstraction represents the device-independent operations, while the implementation deals with the device-specific communication and control.
+
+Plugin architectures: The Bridge pattern is useful in plugin architectures, where the core system provides an abstraction for plugins to extend functionality. The abstraction defines the common interface that plugins must adhere to, while the implementations represent the specific plugin functionalities.
+
+The Bridge pattern provides a way to separate abstractions from their implementations, enabling flexibility, modularity, and extensibility in software systems. It promotes loose coupling, code reuse, and allows for easier maintenance and evolution. It is particularly useful in scenarios where there is a need to support multiple platforms, technologies, or implementations while maintaining a consistent and adaptable architecture.
+
+## ABSTRACT FACTORY
+
+The Abstract Factory design pattern is used when we want to provide an interface for creating families of related or dependent objects without specifying their concrete classes. It allows us to create objects that belong to multiple hierarchies or have interrelated dependencies. Here are some common scenarios where the Abstract Factory pattern is applied:
+
+Creating platform-independent code: The Abstract Factory pattern is often used to create code that is independent of specific platforms or technologies. By defining an abstract factory interface, the client code can be decoupled from the concrete implementations, enabling platform-agnostic development.
+
+Supporting multiple product variations: When there are multiple variations of a product or object, the Abstract Factory pattern can be employed to create objects from different families. Each concrete factory implements the abstract factory interface and provides the implementation for creating objects of a specific product family.
+
+Encapsulating object creation logic: The Abstract Factory pattern provides a way to encapsulate object creation logic within a factory class. The client code interacts with the abstract factory interface, leaving the responsibility of object creation to the concrete factories. This promotes separation of concerns and allows for flexible creation of objects.
+
+Managing complex dependencies: In scenarios where objects have complex dependencies or need to be created in a specific order, the Abstract Factory pattern can be used to manage those dependencies. The abstract factory can ensure that objects are created and configured correctly based on their interdependencies.
+
+Plug-in architectures: The Abstract Factory pattern is useful in plug-in architectures, where different implementations of a feature or functionality can be dynamically plugged into the system. Each concrete factory represents a plugin that provides a specific implementation, allowing for extensibility and customization of the system.
+
+Product families and cross-platform compatibility: The Abstract Factory pattern is applicable when working with product families that have cross-platform compatibility. Each concrete factory can provide the implementation for different platforms, ensuring that objects from the same family can work seamlessly across different platforms.
+
+The Abstract Factory pattern provides a way to create families of objects or related dependencies in a flexible and modular manner. It promotes loose coupling, code reusability, and enables platform independence. It is particularly useful in scenarios where there are variations of products or dependencies, the need for cross-platform compatibility, or the desire to encapsulate object creation logic.
+
+## BUILDER
+
+The Builder design pattern is used when we want to create complex objects step by step, providing a flexible and controlled construction process. It allows us to construct objects with different configurations while keeping the construction logic separate from the object's representation. Here are some common scenarios where the Builder pattern is applied:
+
+Creating objects with multiple configuration options: The Builder pattern is often used when an object has many optional configuration parameters or properties. It allows the client code to specify and set only the desired configuration options, leading to cleaner and more readable code.
+
+Avoiding telescoping constructors: When an object has multiple constructors with different parameter combinations, the Builder pattern can be employed to avoid the "telescoping constructor" anti-pattern. Instead of creating numerous constructors, the Builder provides a fluent interface to set the desired parameters in a step-by-step manner.
+
+Creating immutable objects: The Builder pattern is useful for creating immutable objects where all properties are set during construction. It allows for the construction of objects in a controlled manner, ensuring that the final object is in a consistent and immutable state.
+
+Creating complex object graphs: In scenarios where the creation of complex object graphs is required, the Builder pattern provides a clear and manageable way to construct the objects. The builder can handle the creation and assembly of multiple interconnected objects, ensuring proper initialization and configuration.
+
+Variations of object construction: The Builder pattern can be applied when there are different variations or representations of an object that can be constructed. The builder can provide different building strategies or variants, allowing the client code to construct objects with varying configurations or behaviors.
+
+Testing and mocking: The Builder pattern is useful for testing and mocking purposes. It allows for the creation of builders that generate objects with predefined configurations, making it easier to set up test scenarios or simulate different object states.
+
+The Builder pattern provides a way to construct complex objects step by step, enabling the creation of objects with different configurations and variations. It promotes readability, maintainability, and flexibility in object construction. It is particularly useful in scenarios where objects have many optional properties, complex initialization logic, or the need for immutable objects.
+
+## PROTOTYPE
+
+The Prototype design pattern is used when we want to create new objects by copying or cloning existing objects. It allows us to create new instances without explicitly invoking their constructors or knowing their specific classes. Here are some common scenarios where the Prototype pattern is applied:
+
+Creating objects with dynamic types: The Prototype pattern is often used when the specific type of an object is determined at runtime. Instead of creating new objects using traditional constructors, we can clone an existing object of the desired type and modify it as needed.
+
+Avoiding costly object creation: When creating new objects is expensive in terms of time or resources, the Prototype pattern can be employed to save on those costs. Instead of instantiating new objects from scratch, we can clone existing objects and modify their properties as necessary.
+
+Managing complex object hierarchies: The Prototype pattern is useful for managing complex object hierarchies where objects have interdependencies. By cloning existing objects, we can avoid the complexities of manually creating and configuring each object in the hierarchy.
+
+Customizing object configurations: The Prototype pattern allows for easy customization of object configurations. We can create a prototype object with a predefined configuration and then clone it to create new instances. We can modify the properties of the cloned objects to customize their configurations.
+
+Caching frequently used objects: The Prototype pattern can be applied to cache and reuse frequently used objects. Instead of creating new instances each time, we can clone cached objects and provide them as needed. This can help improve performance by reducing object creation overhead.
+
+Managing object state: The Prototype pattern is useful when dealing with objects that have different states or configurations. We can create prototypes representing different states and clone them to create objects with specific configurations. This allows for efficient state management without the need for complex conditional logic.
+
+The Prototype pattern provides a way to create new objects by cloning existing ones, promoting flexibility, efficiency, and customization. It allows us to create new instances without explicitly invoking constructors or knowing the specific classes. It is particularly useful in scenarios where object creation is costly, object configurations need customization, or complex object hierarchies need to be managed.
