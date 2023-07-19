@@ -109,11 +109,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype.NET", "Prototype.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{48BA5FC9-9AA9-462D-A8BB-D51AF40E690E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.RealWorld", "Mediator.RealWorld\Mediator.RealWorld.csproj", "{959D1BF3-1DF4-40F6-A92F-A534E8957D5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.RealWorld", "Mediator.RealWorld\Mediator.RealWorld.csproj", "{959D1BF3-1DF4-40F6-A92F-A534E8957D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.NET", "Mediator.NET\Mediator.NET.csproj", "{F37CA92B-A003-4B58-B724-F807E0D4980D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.NET", "Mediator.NET\Mediator.NET.csproj", "{F37CA92B-A003-4B58-B724-F807E0D4980D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16-Builder-17-Prototype-18-Mediator", "16-Builder-17-Prototype-18-Mediator", "{21456130-B195-4586-B6AD-AA80719C7444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{DF44BC93-7420-4391-A9ED-BEEA59C4801F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.RealWorld", "Visitor.RealWorld\Visitor.RealWorld.csproj", "{58403DE7-4E11-45EE-AE88-6CEAA482BEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.NET", "Visitor.NET\Visitor.NET.csproj", "{1CBA1B50-6CA2-4CBB-B263-727EE8AF7716}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +327,18 @@ Global
 		{F37CA92B-A003-4B58-B724-F807E0D4980D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37CA92B-A003-4B58-B724-F807E0D4980D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37CA92B-A003-4B58-B724-F807E0D4980D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF44BC93-7420-4391-A9ED-BEEA59C4801F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF44BC93-7420-4391-A9ED-BEEA59C4801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF44BC93-7420-4391-A9ED-BEEA59C4801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF44BC93-7420-4391-A9ED-BEEA59C4801F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58403DE7-4E11-45EE-AE88-6CEAA482BEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58403DE7-4E11-45EE-AE88-6CEAA482BEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58403DE7-4E11-45EE-AE88-6CEAA482BEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58403DE7-4E11-45EE-AE88-6CEAA482BEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBA1B50-6CA2-4CBB-B263-727EE8AF7716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBA1B50-6CA2-4CBB-B263-727EE8AF7716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBA1B50-6CA2-4CBB-B263-727EE8AF7716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBA1B50-6CA2-4CBB-B263-727EE8AF7716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
