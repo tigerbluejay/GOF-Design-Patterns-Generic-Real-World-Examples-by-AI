@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\bin\Debug\net6.0\ChainofResponsibility.NET.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\bin\Debug\net6.0\ChainofResponsibility.NET.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\bin\Debug\net6.0\ChainofResponsibility.NET.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\bin\Debug\net6.0\ChainofResponsibility.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\bin\Debug\net6.0\ChainofResponsibility.NET.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\refint\ChainofResponsibility.NET.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ChainofResponsibility.NET.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.NET\obj\Debug\net6.0\ref\ChainofResponsibility.NET.dll

@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\bin\Debug\net6.0\ChainofResponsibility.RealWorld.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\bin\Debug\net6.0\ChainofResponsibility.RealWorld.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\bin\Debug\net6.0\ChainofResponsibility.RealWorld.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\bin\Debug\net6.0\ChainofResponsibility.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\bin\Debug\net6.0\ChainofResponsibility.RealWorld.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\refint\ChainofResponsibility.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ChainofResponsibility.RealWorld.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\ChainofResponsibility.RealWorld\obj\Debug\net6.0\ref\ChainofResponsibility.RealWorld.dll
