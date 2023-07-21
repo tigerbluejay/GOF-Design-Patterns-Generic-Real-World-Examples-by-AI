@@ -349,3 +349,57 @@ Caching frequently used objects: The Prototype pattern can be applied to cache a
 Managing object state: The Prototype pattern is useful when dealing with objects that have different states or configurations. We can create prototypes representing different states and clone them to create objects with specific configurations. This allows for efficient state management without the need for complex conditional logic.
 
 The Prototype pattern provides a way to create new objects by cloning existing ones, promoting flexibility, efficiency, and customization. It allows us to create new instances without explicitly invoking constructors or knowing the specific classes. It is particularly useful in scenarios where object creation is costly, object configurations need customization, or complex object hierarchies need to be managed.
+
+## MEDIATOR
+
+The Mediator design pattern is used when we want to reduce direct communication between components and instead, have them interact through a central mediator object. It promotes loose coupling among components and simplifies their interactions. Here are some common scenarios where the Mediator pattern is applied:
+
+GUI components and event handling: The Mediator pattern is commonly used in graphical user interfaces (GUIs) where different components (e.g., buttons, text fields, panels) need to communicate and respond to user events. The mediator acts as a central hub that handles event notifications and coordinates the interactions among the components.
+
+Distributed systems: In distributed systems, the Mediator pattern can be employed to facilitate communication between different nodes or services. The mediator can handle message passing, routing, and synchronization among the distributed components.
+
+Chat applications: In chat applications or messaging systems, the Mediator pattern can be used to manage communication between users or chat rooms. The mediator facilitates message exchange and ensures that users do not have direct dependencies on each other.
+
+Air traffic control systems: The Mediator pattern can be applied in air traffic control systems, where various aircraft need to coordinate and communicate with each other and with the control center. The mediator ensures proper communication and avoids direct connections between aircraft.
+
+Multiplayer games: In multiplayer games, the Mediator pattern can be used to manage player interactions and game events. The mediator coordinates the interactions between players and the game environment, handling communication, synchronization, and game state updates.
+
+Collaborative editing tools: The Mediator pattern is useful in collaborative editing tools, where multiple users can collaborate on a shared document or project. The mediator manages the changes made by different users and ensures that updates are propagated to all participants.
+
+The Mediator pattern provides a central point of control and coordination for components, promoting loose coupling and flexibility. It simplifies the interactions between components and helps manage complex communication scenarios. It is particularly useful in scenarios where components need to communicate indirectly, or where a central hub is necessary to coordinate interactions among multiple entities.
+
+## VISITOR
+
+The Visitor design pattern is used when we want to add new operations or behaviors to a group of related classes without modifying their code. It allows us to separate the logic for different operations from the classes being operated upon. Here are some common scenarios where the Visitor pattern is applied:
+
+Adding new behaviors to class hierarchies: The Visitor pattern is often used to add new operations or behaviors to a class hierarchy without modifying the classes themselves. New visitors can be created to implement the desired operations, and they can be applied to the classes in the hierarchy without altering their existing code.
+
+Externalizing operations from classes: When classes have multiple operations, and adding new operations would lead to code bloat or violate the Open/Closed Principle, the Visitor pattern can be employed. It externalizes the operations into visitor classes, keeping the original classes focused on their core responsibilities.
+
+Double dispatch or multiple dispatch: The Visitor pattern allows for double dispatch or multiple dispatch, which means selecting the appropriate method to call based on the types of two objects. This feature can be useful when there is a need to perform different operations based on the combination of types of two objects.
+
+Structure and behavior separation: The Visitor pattern helps in separating the structure of the class hierarchy from the behavior or operations that are applied to the classes. It promotes a clear distinction between data and algorithms, making the system easier to maintain and extend.
+
+Interacting with complex structures: The Visitor pattern is applicable when working with complex structures, such as trees or graphs. Visitors can traverse and operate on the elements of the structure without modifying the element classes or the structure itself.
+
+External modules and plugins: The Visitor pattern is useful in scenarios involving external modules or plugins. The core system can define an abstract visitor interface, and external modules can provide their own visitor implementations to extend the system's functionality.
+
+The Visitor pattern provides a way to add new operations or behaviors to a group of related classes without modifying their code. It promotes the Open/Closed Principle and separation of concerns, making the codebase more flexible and maintainable. It is particularly useful in scenarios where multiple operations need to be applied to a class hierarchy, or the classes in the hierarchy should not be modified to accommodate new operations.
+
+## CHAIN OF RESPONSIBILITY
+
+The Chain of Responsibility design pattern is used when we want to handle a request through a chain of processing objects. It allows multiple objects to handle the request, and each object decides whether to process the request or pass it along to the next object in the chain. Here are some common scenarios where the Chain of Responsibility pattern is applied:
+
+Handling user input and events: The Chain of Responsibility pattern is often used in graphical user interfaces and event handling systems. Each handler in the chain can process specific user input or events, and if one handler cannot handle the request, it passes it to the next handler in the chain.
+
+Logging and error handling: In logging or error handling systems, the Chain of Responsibility pattern can be employed. Each handler in the chain can log or handle specific types of errors or messages, and if one handler cannot handle the error, it delegates it to the next handler.
+
+Request processing pipelines: The Chain of Responsibility pattern is useful in building request processing pipelines, where each handler performs a specific processing step. The chain allows for a flexible and customizable sequence of processing steps for requests.
+
+Authentication and authorization: The Chain of Responsibility pattern can be used in authentication and authorization systems. Each handler in the chain can verify specific credentials or permissions, and if one handler fails to authorize the user, it passes the request to the next handler for further checks.
+
+File and data processing: The Chain of Responsibility pattern is applicable in file and data processing scenarios, where each handler in the chain performs specific operations on the data. The chain allows for modular and reusable data processing components.
+
+Workflow and business rules: The Chain of Responsibility pattern is useful in workflow management and business rules processing. Each handler represents a step in the workflow or a specific business rule, and the chain allows for the sequential execution of these steps or rules.
+
+The Chain of Responsibility pattern provides a way to decouple the sender of a request from its receivers, allowing for flexible and dynamic request handling. It avoids hard-coded dependencies between the sender and receivers and promotes loose coupling. It is particularly useful in scenarios where multiple objects can handle a request and the exact handling process depends on runtime conditions or configurations.
