@@ -1,0 +1,15 @@
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\bin\Debug\net6.0\Flyweight.RealWorld.exe
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\bin\Debug\net6.0\Flyweight.RealWorld.deps.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\bin\Debug\net6.0\Flyweight.RealWorld.runtimeconfig.json
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\bin\Debug\net6.0\Flyweight.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\bin\Debug\net6.0\Flyweight.RealWorld.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.csproj.AssemblyReference.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.AssemblyInfoInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.AssemblyInfo.cs
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\refint\Flyweight.RealWorld.dll
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.pdb
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\Flyweight.RealWorld.genruntimeconfig.cache
+C:\Users\josem\source\Large Projects\AI Design Patterns Generic Examples\GOF-Design-Patterns-Generic-AI\Flyweight.RealWorld\obj\Debug\net6.0\ref\Flyweight.RealWorld.dll
