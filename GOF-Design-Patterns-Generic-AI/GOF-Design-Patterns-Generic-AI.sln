@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory.RealWorld", "Factory.RealWorld\Factory.RealWorld.csproj", "{3A4B2397-99C5-452A-A180-30D129CE4048}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Singelton-02-FactoryMethod-03-Observer", "01-Singelton-02-FactoryMethod-03-Observer", "{62F8A86A-49E3-43DB-A93E-48C575C4CCEC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Singleton-02-FactoryMethod-03-Observer", "01-Singleton-02-FactoryMethod-03-Observer", "{62F8A86A-49E3-43DB-A93E-48C575C4CCEC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{CE162731-373C-40C7-B60B-9A075C2F6E95}"
 EndProject
@@ -143,11 +143,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento.NET", "Memento.NET\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "22-Memento-23-Interpreter", "22-Memento-23-Interpreter", "{BC04F4E9-CDA4-460A-8373-8CE63BD248C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{E03A5F37-A0DC-46A5-A0DE-80F9286DDC9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\Interpreter.csproj", "{E03A5F37-A0DC-46A5-A0DE-80F9286DDC9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter.RealWorld", "Interpreter.RealWorld\Interpreter.RealWorld.csproj", "{3CE32EB6-7453-49D8-BE53-A97F8896019E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter.RealWorld", "Interpreter.RealWorld\Interpreter.RealWorld.csproj", "{3CE32EB6-7453-49D8-BE53-A97F8896019E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter.NET", "Interpreter.NET\Interpreter.NET.csproj", "{E268B505-F77A-4768-B624-E5966F4E2C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter.NET", "Interpreter.NET\Interpreter.NET.csproj", "{E268B505-F77A-4768-B624-E5966F4E2C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
